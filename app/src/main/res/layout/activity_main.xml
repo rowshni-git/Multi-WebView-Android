@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="test"
-            android:text="Google"/>
+            android:text='@string/link1' />
 
         <Button
             android:id="@+id/trello"
@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="test"
-            android:text="Trello"/>
+            android:text='@string/link2' />
 
         <Button
             android:id="@+id/gmail"
@@ -36,7 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="test"
-            android:text="Gmail"/>
+            android:text='@string/link3' />
 
         <Button
             android:id="@+id/stack"
@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="test"
-            android:text="Summary"/>
+            android:text='@string/link4' />
 
         <Button
             android:id="@+id/rmgpp"
@@ -52,7 +52,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="test"
-            android:text="RMGPP" />
+            android:text='@string/link5' />
 
 
     </LinearLayout>

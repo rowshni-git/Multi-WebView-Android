@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Multi-WebView</string>
+
+
+    <string  name="link1">Google</string>
+    <string  name="link2">Trello</string>
+    <string  name="link3">Gmail</string>
+    <string  name="link4">Stack</string>
+    <string  name="link5">RMGPP</string>
 </resources>
